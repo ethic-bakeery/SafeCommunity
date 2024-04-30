@@ -34,7 +34,7 @@ SafeCommunity is a mobile application designed to empower citizens to contribute
    - Robust security measures, including encryption of data transmission and storage, to protect user privacy and sensitive information.
 
 ## Installation:
-SafeCommunity is available for download on both Android and iOS devices. Simply search for "SafeCommunity" in the respective app stores and follow the instructions to install the app on your device.
+SafeCommunity will be available for download on both Android and iOS devices.
 
 ## Usage:
 1. **Reporting Incidents:**
